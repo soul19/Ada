@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 4a1019cf3de26b340980c61ece9a3e8b
+timeCreated: 1504362245
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Monstruo cron\xF3metro_0"
+    21300002: "Monstruo cron\xF3metro_1"
+    21300004: "Monstruo cron\xF3metro_2"
+    21300006: "Monstruo cron\xF3metro_3"
+    21300008: "Monstruo cron\xF3metro_4"
+    21300010: "Monstruo cron\xF3metro_5"
+    21300012: "Monstruo cron\xF3metro_6"
+    21300014: "Monstruo cron\xF3metro_7"
+    21300016: "Monstruo cron\xF3metro_8"
+    21300018: "Monstruo cron\xF3metro_9"
+    21300020: "Monstruo cron\xF3metro_10"
+    21300022: "Monstruo cron\xF3metro_11"
+    21300024: "Monstruo cron\xF3metro_12"
+    21300026: "Monstruo cron\xF3metro_13"
+    21300028: "Monstruo cron\xF3metro_14"
+    21300030: "Monstruo cron\xF3metro_15"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 573
+        width: 225
+        height: 427
+      alignment: 9
+      pivot: {x: 0.4977778, y: 0.5058548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_1"
+      rect:
+        serializedVersion: 2
+        x: 216.20593
+        y: 609
+        width: 272
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5102723, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_2"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 888
+        width: 117
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49572653, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_3"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 602
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_4"
+      rect:
+        serializedVersion: 2
+        x: 492.00003
+        y: 472
+        width: 418.99997
+        height: 404
+      alignment: 9
+      pivot: {x: 0.50954646, y: 0.5111386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_5"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 446
+        width: 153
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49673203, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_6"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 375
+        width: 140
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4892857, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_7"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 294
+        width: 103
+        height: 173
+      alignment: 9
+      pivot: {x: 0.60194176, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_8"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 68
+        width: 275
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49871466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_9"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 140
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4892857, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_10"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 272
+        width: 186
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49731183, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_11"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 116
+        width: 112
+        height: 152
+      alignment: 9
+      pivot: {x: 0.49553573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_12"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 245.49998
+        width: 158
+        height: 59.000015
+      alignment: 9
+      pivot: {x: 0.4936709, y: 0.4745764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_13"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 67
+        width: 128
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.50308645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_14"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 31
+        width: 148
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Monstruo cron\xF3metro_15"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 22
+        width: 157
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5063694, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98589883116963
+  assetBundleName: 
+  assetBundleVariant: 
