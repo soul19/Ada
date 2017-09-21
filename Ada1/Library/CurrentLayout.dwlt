@@ -330,7 +330,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jogacl01\Documents\New Unity Project
+  m_LastProjectPath: C:\Users\jogacl01\Documents\GitHub\Nueva\Ada\Ada1
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -480,9 +480,9 @@ MonoBehaviour:
     height: 760
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: dafbffff00000000
+    m_SelectedIDs: 0e260000
+    m_LastClickedID: 9742
+    m_ExpandedIDs: dafbffff00000000de2500009a260000aa260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
